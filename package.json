@@ -1,0 +1,1 @@
+{"name":"no-easy-way-nhs","version":"2.0.0","private":true,"scripts":{"start":"node index.js","preview":"node setup.js","setup":"node setup.js --apply","check":"node --check index.js && node --check setup.js"},"engines":{"node":">=22.12.0"},"dependencies":{"discord.js":"14.22.1","dotenv":"16.6.1"}}
